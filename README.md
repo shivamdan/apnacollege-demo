@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first github repository
 <br>
-Author - Shivam Dan
+Author - Shivam Dan(Apna College)
